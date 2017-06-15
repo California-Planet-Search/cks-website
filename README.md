@@ -1,7 +1,12 @@
 # CKS Project
 
+## Project Info
+
+##
+
 # Parameters
 
+CKS
 
 # Spectra 
 
