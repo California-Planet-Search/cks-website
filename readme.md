@@ -2,7 +2,7 @@
 
 ## Project Info
 
-The California-Kepler Survery is a database of 1305 spectra of ''Kepler Objects of Interest'' (KOIs) hosting 2025 planet candidates. The project was initiated by Andrew Howard, Geoff Marcy, and John Johnson. Spectra were observed from 2011 to 2015. The core component of CKS was to obtain a Keck/HIRES spectra of all KOIs brighter than kepmag of 14.2. Fainter stars were appended for a variety of reasons. The CKS dataset consists of several subsets:
+The California-Kepler Survery (CKS) is a database of 1305 spectra of "Kepler Objects of Interest" (KOIs) hosting 2025 planet candidates. The CKS project was initiated by Andrew Howard, Geoff Marcy, and John Johnson. Spectra were observed from 2011 to 2015. The core component of CKS was to obtain a Keck/HIRES spectra of all KOIs brighter than kepmag of 14.2. Fainter stars were appended for a variety of reasons. The CKS dataset consists of several subsets:
 
 1. Magnitude-limited (Kp < 14.2; N = 960)
 2. Multi-planet hosts (N = 484)
