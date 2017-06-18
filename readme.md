@@ -28,15 +28,22 @@ Spectra are available via
 1. A gzipped tarball (size = 2.8GB) [download](http://www.astro.caltech.edu/~howard/cks/cks-spectra.tgz) 
 2. Individually [here](http://www.astro.caltech.edu/~howard/cks/spectra/) 
 
-```
-./cks-spectra.tgz
-```
-
-Or idividually (size = ~3 MB per spectrum; 3 chips, 3 files)
+Naming convention for individual spectra is
 
 ```
-./cks-spectra/
+cks-<id_starname>_<chip><id_obs>.fits
 ```
+
+e.g.
+
+```
+cks-k00001_bj122.742.fits
+
+- <k00001> = KOI-1
+- <b> = Blue chip
+- <j122.742> = Unique CPS spectrum identifier
+```
+
 
 ### ToDo: Howard, please explain the spectrum format and give an example of how to read in.
 
