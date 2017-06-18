@@ -23,7 +23,10 @@ The CKS dataset is described in two papers
 
 ## Spectra 
 
-Spectra are available either as a gzipped tarball (size = 2.8GB)
+Spectra are available via
+
+1. A gzipped tarball (size = 2.8GB) [download](http://www.astro.caltech.edu/~howard/cks/cks-spectra.tgz) 
+2. Individually [here](http://www.astro.caltech.edu/~howard/cks/spectra/) 
 
 ```
 ./cks-spectra.tgz
