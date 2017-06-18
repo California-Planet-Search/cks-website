@@ -57,10 +57,11 @@ cks-k00001_bj122.742.fits
  
  Within each .fits file, there are three extensions of equal dimemsions. The first extension is the spectrum itself, in echelle format. The vertical axis is flux, in arbitray units. The blaze function has been removed from each spectral order.  The signal to noise ratio has been preserved in the second extension, which gives the fractional error per pixel. The third extension holds the rest frame wavelength solution, which is accurate to plus or minus one pixel.
  
-Example of how to open a spectrum:
-- IDL
+- Example of how to open a spectrum:
+IDL
 
-```IDL> im=readfits('cks-K00001_rj122.742.fits',hd)
+```
+IDL> im=readfits('cks-K00001_rj122.742.fits',hd)
 
 Read the fractional error:
 IDL> im=readfits('cks-K00001_rj122.742.fits',exten=1,hd)
@@ -68,7 +69,9 @@ IDL> im=readfits('cks-K00001_rj122.742.fits',exten=1,hd)
 Read the pixel by pixel wavelength solution (error = +/- 1 pixel)
 IDL> im=readfits('cks-K00001_rj122.742.fits.fits',exten=2,hd)
 ```
-- Python
+ 
+ Python
+
 ```
 from astropy.io import fits
 hdulist = fits.open('cks-K00001_rj122.742.fits.fits')
