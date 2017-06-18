@@ -11,7 +11,7 @@ The California-Kepler Survery (CKS) is a database of 1305 spectra of "Kepler Obj
 
 ## Attribution 
 
-The CKS dataset is described in two sets of papers
+The CKS dataset is described in two papers
 
 1. [CKS-I](https://arxiv.org/abs/1703.10402): "The California-Kepler Survey. I. High Resolution Spectroscopy of 1305 Stars Hosting Kepler Transiting Planets" (Petigura, Howard, Marcy, et al. 2017)
 
