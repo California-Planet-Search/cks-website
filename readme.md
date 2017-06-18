@@ -49,13 +49,10 @@ cks-k00001_bj122.742.fits
 
 ## Parameters
 
-Parameters are available at the [ExoFOP](https://exofop.ipac.caltech.edu/kepler/welcome.php) (account required) or in 
+Parameters are available via
 
-```
-./cksphys-merged.csv
-```
-
-Column descriptions may be found in
+- The [ExoFOP](https://exofop.ipac.caltech.edu/kepler/welcome.php) (account required) 
+- As a single csv file [download](http://www.astro.caltech.edu/~howard/cks/cksphys-merged.csv)
 
 ```
 ./column-definitions
