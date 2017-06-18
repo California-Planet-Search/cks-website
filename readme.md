@@ -50,10 +50,14 @@ cks-k00001_bj122.742.fits
 
 ## File Format
  Each Keck/HIRES spectrum consists of three individual files. Each file is prefixed with an 
- 'i' (3640-4800 Ang), 
- 'r' (4975-6420 Ang), or 
- 'b'(6540-8000 Ang) 
- indicating the wavelength range covered. The CKS spectral analysis uses only the central ('r') spectrum.
+
+'i' (6540-8000 Ang), 
+
+'r' (4975-6420 Ang), or 
+
+'b' (3640-4800 Ang), 
+
+indicating the wavelength range covered. The CKS spectral analysis uses only the central ('r') spectrum.
  
  Within each .fits file, there are three extensions of equal dimemsions. The first extension is the spectrum itself, in echelle format. The vertical axis is flux, in arbitray units. The blaze function has been removed from each spectral order.  The signal to noise ratio has been preserved in the second extension, which gives the fractional error per pixel. The third extension holds the rest frame wavelength solution, which is accurate to plus or minus one pixel.
  
