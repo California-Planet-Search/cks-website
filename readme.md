@@ -25,8 +25,8 @@ The CKS dataset is described in two papers
 
 Spectra are available via
 
-1. A gzipped tarball (size = 2.8GB) [download](http://www.astro.caltech.edu/~howard/cks/cks-spectra.tgz) 
-2. Individually [here](http://www.astro.caltech.edu/~howard/cks/spectra/) 
+1. A gzipped tarball (size = 2.8GB) [[download]](http://www.astro.caltech.edu/~howard/cks/cks-spectra.tgz) 
+2. Individually [[here]](http://www.astro.caltech.edu/~howard/cks/spectra/) 
 
 Naming convention for individual spectra is
 
@@ -57,10 +57,4 @@ Parameters are available via
 ```
 ./column-definitions
 ```
-
-### ToDo: Erik update column definitions
-
-
-
-
 
