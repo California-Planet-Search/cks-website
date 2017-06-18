@@ -1,4 +1,4 @@
-# The California Kepler Survey
+# The California-Kepler Survey
 
 ## Project Info
 
