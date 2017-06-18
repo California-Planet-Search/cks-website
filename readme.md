@@ -64,10 +64,10 @@ IDL
 IDL> im=readfits('cks-K00001_rj122.742.fits',hd)
 
 Read the fractional error:
-IDL> im=readfits('cks-K00001_rj122.742.fits',exten=1,hd)
+IDL> err =readfits('cks-K00001_rj122.742.fits',exten=1,hd)
 
 Read the pixel by pixel wavelength solution (error = +/- 1 pixel)
-IDL> im=readfits('cks-K00001_rj122.742.fits.fits',exten=2,hd)
+IDL> wave=readfits('cks-K00001_rj122.742.fits.fits',exten=2,hd)
 ```
  
  Python
