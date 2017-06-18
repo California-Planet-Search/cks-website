@@ -23,13 +23,13 @@ The CKS dataset is described in two sets of papers
 
 ## Spectra 
 
-Spectra are available either as a gzipped tarball (size = 6GB)
+Spectra are available either as a gzipped tarball (size = 2.8GB)
 
 ```
 ./cks-spectra.tgz
 ```
 
-Or idividually (size = ~1 MB per chip per spectrum )
+Or idividually (size = ~3 MB per spectrum; 3 chips, 3 files)
 
 ```
 ./cks-spectra/
