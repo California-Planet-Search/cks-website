@@ -15,7 +15,7 @@ The CKS dataset consists of several subsets:
 
 The CKS dataset is described in two papers
 
-1. [CKS-I](https://arxiv.org/abs/1703.10402): "The California-Kepler Survey. I. High Resolution Spectroscopy of 1305 Stars Hosting Kepler Transiting Planets" (Petigura, Howard, Marcy, et al. 2017)
+1. [CKS-I](https://arxiv.org/abs/1703.10400): "The California-Kepler Survey. I. High Resolution Spectroscopy of 1305 Stars Hosting Kepler Transiting Planets" (Petigura, Howard, Marcy, et al. 2017)
 
 2. [CKS-II](https://arxiv.org/abs/1703.10402): "The California-Kepler Survey. II. Precise Physical Properties of 2025 Kepler Planets and Their Host Stars" (Johnson, Petigura, Fulton, et al. 2017)
 
