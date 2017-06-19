@@ -2,14 +2,15 @@
 
 ## Project Info
 
-The California-Kepler Survery (CKS) is a database of 1305 spectra of "Kepler Objects of Interest" (KOIs) hosting 2025 planet candidates. The CKS project was initiated by Andrew Howard, Geoff Marcy, and John Johnson. Spectra were observed from 2011 to 2015. The core goal of CKS was to obtain a Keck/HIRES spectrum of all KOIs with Kp (Kepler magnitude) < 14.2. Fainter stars were appended for a variety of reasons. 
+The California-Kepler Survery (CKS) is a project to measure precise properties of planets and thier host stars discovered by NASA's Kepler Mission.  There are 1305 CKS spectra of "Kepler Objects of Interest" (KOIs) hosting 2025 planet candidates. The CKS project was initiated by Andrew Howard, Geoff Marcy, and John Johnson and spectra were observed from 2011 to 2015. The core goal of CKS was to obtain a spectrum with HIRES at the W. M. Keck Observatory of all KOIs with Kp (Kepler magnitude) < 14.2. Fainter stars were appended for a variety of reasons. 
 
-The CKS stellar samples are:
+The overlapping CKS stellar samples are:
 
-1. Magnitude-limited (Kp < 14.2; N<sub>star</sub> = 960)
-2. Multi-planet hosts (N<sub>star</sub> = 484)
-3. Ultra-short period hosts (P < 1 day; N<sub>star</sub> = 71)
-4. Habitable Zone hosts (N<sub>star</sub> = 127)
+1. Magnitude-limited (Kp < 14.2; N<sub>star</sub> = 960, N<sub>planet</sub> = 1385)
+2. Multi-planet hosts (N<sub>star</sub> = 484, N<sub>planet</sub> = 1254)
+3. Ultra-short period hosts (P < 1 day; N<sub>star</sub> = 71, N<sub>planet</sub> = 127)
+4. Habitable Zone hosts (N<sub>star</sub> = 127, N<sub>planet</sub> = 71)
+5. Other (N<sub>star</sub> = 38, N<sub>planet</sub> = 38)
 
 ## Attribution 
 
@@ -36,7 +37,7 @@ Parameters are available via
 
 ## Spectra 
 
-Spectra are available via
+See CKS-I for a detailed description of the CKS spectra from Keck-HIRES.  Spectra are available via
 
 - The [ExoFOP](https://exofop.ipac.caltech.edu/kepler/welcome.php) (account required) 
 - A gzipped tarball (size = 2.8GB) [[download]](http://www.astro.caltech.edu/~howard/cks/cks-spectra.tgz) 
