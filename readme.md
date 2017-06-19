@@ -8,8 +8,8 @@ The overlapping CKS stellar samples are:
 
 1. Magnitude-limited (Kp < 14.2; N<sub>star</sub> = 960, N<sub>planet</sub> = 1385)
 2. Multi-planet hosts (N<sub>star</sub> = 484, N<sub>planet</sub> = 1254)
-3. Ultra-short period hosts (P < 1 day; N<sub>star</sub> = 71, N<sub>planet</sub> = 127)
-4. Habitable Zone hosts (N<sub>star</sub> = 127, N<sub>planet</sub> = 71)
+3. Ultra-short period hosts (P < 1 day; N<sub>star</sub> = 127, N<sub>planet</sub> = 127)
+4. Habitable Zone hosts (N<sub>star</sub> = 71, N<sub>planet</sub> = 71)
 5. Other (N<sub>star</sub> = 38, N<sub>planet</sub> = 38)
 
 ## Attribution 
