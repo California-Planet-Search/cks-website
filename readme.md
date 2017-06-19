@@ -26,7 +26,7 @@ The CKS dataset is described in two papers
 
 ## CKS Contributors (alphabetical)
 
-Phillip A. Cargile, Ian J. M. Crossfield, Benjamin J. Fulton, Leslie Hebb, Lea A. Hirsch, Andrew W. Howard, Howard Isaacson, John Asher Johnson, Geoffrey W. Marcy, Timothy D. Morton, Erik A. Petigura, Leslie A. Rogers, Evan Sinukoff, Lauren M. Weiss, Joshua N. Winn
+Phillip A. Cargile, [Ian J. M. Crossfield](https://people.ucsc.edu/~ianc/), [Benjamin J. Fulton](http://www.astro.caltech.edu/~bfulton/), [Leslie Hebb](http://astro.phy.vanderbilt.edu/~hebbl/), [Lea A. Hirsch](http://w.astro.berkeley.edu/~lhirsch/), [Andrew W. Howard](http://www.astro.caltech.edu/~howard/), [Howard Isaacson](http://astro.berkeley.edu/researcher-profile/2358303-howard-isaacson), [John Asher Johnson](https://astronomy.fas.harvard.edu/people/john-asher-johnson), Geoffrey W. Marcy, [Timothy D. Morton](https://sites.google.com/site/timmorton/), [Erik A. Petigura](http://petigura.github.io/), [Leslie A. Rogers](https://astro.uchicago.edu/people/leslie-rogers.php), Evan Sinukoff, [Lauren M. Weiss](http://lweiss25.wixsite.com/weiss), [Joshua N. Winn](http://scholar.princeton.edu/jwinn/home)
 
 ## Parameters
 
