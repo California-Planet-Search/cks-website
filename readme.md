@@ -2,7 +2,7 @@
 
 ## Project Info
 
-The California-Kepler Survery (CKS) is a project to measure precise properties of planets and thier host stars discovered by NASA's Kepler Mission.  There are 1305 CKS spectra of "Kepler Objects of Interest" (KOIs) hosting 2025 planet candidates. The CKS project was initiated by Andrew Howard, Geoff Marcy, and John Johnson and spectra were observed from 2011 to 2015. The core goal of CKS was to obtain a spectrum with HIRES at the W. M. Keck Observatory of all KOIs with Kp (Kepler magnitude) < 14.2. Fainter stars were appended for a variety of reasons. 
+The California-Kepler Survery (CKS) is a project to measure precise properties of planets and thier host stars discovered by NASA's Kepler Mission.  There are 1305 CKS spectra of "Kepler Objects of Interest" (KOIs) hosting 2025 planet candidates. The CKS project was initiated by Andrew Howard, Geoff Marcy, John Johnson, Tim Morton, and Howard Isaacson.  Spectra were obtained from 2011 to 2015. The core goal of CKS was to obtain a high-resolution spectrum with HIRES at the W. M. Keck Observatory of all KOIs with Kp (Kepler magnitude) < 14.2. Fainter stars were appended for a variety of reasons. 
 
 The overlapping CKS stellar samples are:
 
