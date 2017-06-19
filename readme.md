@@ -2,26 +2,37 @@
 
 ## Project Info
 
-The California-Kepler Survery (CKS) is a database of 1305 spectra of "Kepler Objects of Interest" (KOIs) hosting 2025 planet candidates. The CKS project was initiated by Andrew Howard, Geoff Marcy, and John Johnson. Spectra were observed from 2011 to 2015. The core goal of CKS was to obtain a Keck/HIRES spectrum of all KOIs with kepmag < 14.2. Fainter stars were appended for a variety of reasons. 
+The California-Kepler Survery (CKS) is a database of 1305 spectra of "Kepler Objects of Interest" (KOIs) hosting 2025 planet candidates. The CKS project was initiated by Andrew Howard, Geoff Marcy, and John Johnson. Spectra were observed from 2011 to 2015. The core goal of CKS was to obtain a Keck/HIRES spectrum of all KOIs with Kp (Kepler magnitude) < 14.2. Fainter stars were appended for a variety of reasons. 
 
-The CKS dataset consists of several subsets:
+The CKS stellar samples are:
 
-1. Magnitude-limited (Kp < 14.2; N = 960)
-2. Multi-planet hosts (N = 484)
-3. Ultra-short period hosts (P < 1 day; N = 71)
-4. Habitable Zone hosts (N = 127)
+1. Magnitude-limited (Kp < 14.2; N<sub>star</sub> = 960)
+2. Multi-planet hosts (N<sub>star</sub> = 484)
+3. Ultra-short period hosts (P < 1 day; N<sub>star</sub> = 71)
+4. Habitable Zone hosts (N<sub>star</sub> = 127)
 
 ## Attribution 
 
 The CKS dataset is described in two papers
 
-1. [CKS-I](https://arxiv.org/abs/1703.10400): "The California-Kepler Survey. I. High Resolution Spectroscopy of 1305 Stars Hosting Kepler Transiting Planets" (Petigura, Howard, Marcy, et al. 2017)
+1. [CKS-I](https://arxiv.org/abs/1703.10400): "The California-Kepler Survey. I. High Resolution Spectroscopy of 1305 Stars Hosting Kepler Transiting Planets" (Petigura, Howard, Marcy, Johnson, Isaacson, et al. 2017)
 
-2. [CKS-II](https://arxiv.org/abs/1703.10402): "The California-Kepler Survey. II. Precise Physical Properties of 2025 Kepler Planets and Their Host Stars" (Johnson, Petigura, Fulton, et al. 2017)
+2. [CKS-II](https://arxiv.org/abs/1703.10402): "The California-Kepler Survey. II. Precise Physical Properties of 2025 Kepler Planets and Their Host Stars" (Johnson, Petigura, Fulton, Marcy, Howard, et al. 2017)
 
 ## Other papers Using CKS data
 
-1. [CKS-III](https://arxiv.org/abs/1703.10375): "The California-Kepler Survey. III. A Gap in the Radius Distribution of Small Planets" (Fulton, Petigura, Howard, et al. 2017)
+1. [CKS-III](https://arxiv.org/abs/1703.10375): "The California-Kepler Survey. III. A Gap in the Radius Distribution of Small Planets" (Fulton, Petigura, Howard, Isaacson, Marcy, et al. 2017)
+
+## CKS Contributors (alphabetical)
+
+Phillip A. Cargile, Ian J. M. Crossfield, Benjamin J. Fulton, Leslie Hebb, Lea A. Hirsch, Andrew W. Howard, Howard Isaacson, John Asher Johnson, Geoffrey W. Marcy, Timothy D. Morton, Erik A. Petigura, Leslie A. Rogers, Evan Sinukoff, Lauren M. Weiss, Joshua N. Winn
+
+## Parameters
+
+Parameters are available via
+
+- The [ExoFOP](https://exofop.ipac.caltech.edu/kepler/welcome.php) (account required) 
+- As a single csv file [[download]](http://www.astro.caltech.edu/~howard/cks/cks_physical_merged.csv) click [[here]](http://www.astro.caltech.edu/~howard/cks/column-definitions.txt) for column definitions
 
 ## Spectra 
 
@@ -91,10 +102,3 @@ spec = hdulist[0].data
 frac_err = hdulist[1].data
 wave_sol = hdulist[2].data
 ```
-
-## Parameters
-
-Parameters are available via
-
-- The [ExoFOP](https://exofop.ipac.caltech.edu/kepler/welcome.php) (account required) 
-- As a single csv file [[download]](http://www.astro.caltech.edu/~howard/cks/cks_physical_merged.csv) click [[here]](http://www.astro.caltech.edu/~howard/cks/column-definitions.txt) for column definitions
