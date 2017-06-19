@@ -87,7 +87,7 @@ IDL> wav = readfits('cks-K00001_rj122.742.fits.fits',exten=2,hd)
 
 ```
 >>> from astropy.io import fits
->>> hdulist = fits.open('cks-K00001_rj122.742.fits.fits')
+>>> hdulist = fits.open('cks-K00001_rj122.742.fits')
 >>> hdulist.info()
 Filename: cks-K00001_rj122.742.fits
 No.    Name         Type      Cards   Dimensions   Format
