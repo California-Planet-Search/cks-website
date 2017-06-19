@@ -33,7 +33,7 @@ Phillip A. Cargile, [Ian J. M. Crossfield](https://people.ucsc.edu/~ianc/), [Ben
 Parameters are available via
 
 - The [ExoFOP](https://exofop.ipac.caltech.edu/kepler/welcome.php) (account required) 
-- As a single csv file [[download]](http://www.astro.caltech.edu/~howard/cks/cks_physical_merged.csv) click [[here]](http://www.astro.caltech.edu/~howard/cks/column-definitions.txt) for column definitions
+- As a single csv file [[download]](http://www.astro.caltech.edu/~howard/cks/cks_physical_merged.csv).  Click [[here]](http://www.astro.caltech.edu/~howard/cks/column-definitions.txt) for column definitions.
 
 ## Spectra 
 
