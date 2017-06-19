@@ -20,7 +20,7 @@ The CKS dataset is described in two papers
 
 2. [CKS-II](https://arxiv.org/abs/1703.10402): "The California-Kepler Survey. II. Precise Physical Properties of 2025 Kepler Planets and Their Host Stars" (Johnson, Petigura, Fulton, Marcy, Howard, et al. 2017)
 
-## Other papers Using CKS data
+## Other Papers Using CKS Data
 
 1. [CKS-III](https://arxiv.org/abs/1703.10375): "The California-Kepler Survey. III. A Gap in the Radius Distribution of Small Planets" (Fulton, Petigura, Howard, Isaacson, Marcy, et al. 2017)
 
