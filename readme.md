@@ -61,37 +61,34 @@ cks-k00001_bj122.742.fits
 
 
 ## File Format
- Each Keck/HIRES spectrum consists of three individual files. Each file is prefixed with an 
-
-'i' (6540-8000 Ang), 
-
-'r' (4975-6420 Ang), or 
-
-'b' (3640-4800 Ang), 
-
-indicating the wavelength range covered. The CKS spectral analysis uses only the central ('r') spectrum.
+Each Keck/HIRES spectrum consists of three individual files. Each file is prefixed with an letter indicating the HIRES chip. Each chip covers the following range of wavelengths:
  
- Within each .fits file, there are three extensions of equal dimemsions. The first extension is the spectrum itself, in echelle format. The vertical axis is flux, in arbitray units. The blaze function has been removed from each spectral order.  The signal to noise ratio has been preserved in the second extension, which gives the fractional error per pixel. The third extension holds the rest frame wavelength solution, which is accurate to plus or minus one pixel.
+- 'i' (6540-8000 Ang) 
+- 'r' (4975-6420 Ang) 
+- 'b' (3640-4800 Ang) 
+
+The CKS spectral analysis uses only the central ('r') spectrum.
  
-- Example of how to open a spectrum:
-IDL
+Within each .fits file, there are three extensions of equal dimemsions. The first extension is the spectrum itself, in echelle format. The values are flux, in arbitray units. The blaze function has been removed from each spectral order.  The signal-to-noise ratio has been preserved in the second extension, which gives the fractional error per pixel. The third extension holds the rest frame wavelength solution, which is accurate to ~1 HIRES pixel or ~1.2 km/s or ~0.02 angstroms.
+ 
+### Read in spectrum in IDL
 
 ```
-IDL> im=readfits('cks-K00001_rj122.742.fits',hd)
+IDL> flux = readfits('cks-K00001_rj122.742.fits',hd)
 
 Read the fractional error:
-IDL> err =readfits('cks-K00001_rj122.742.fits',exten=1,hd)
+IDL> flux_err =readfits('cks-K00001_rj122.742.fits',exten=1,hd)
 
 Read the pixel by pixel wavelength solution (error = +/- 1 pixel)
-IDL> wave=readfits('cks-K00001_rj122.742.fits.fits',exten=2,hd)
+IDL> wav = readfits('cks-K00001_rj122.742.fits.fits',exten=2,hd)
 ```
  
- Python
+### Read in spectrum in Python
 
 ```
-from astropy.io import fits
-hdulist = fits.open('cks-K00001_rj122.742.fits.fits')
-hdulist.info()
+>>> from astropy.io import fits
+>>> hdulist = fits.open('cks-K00001_rj122.742.fits.fits')
+>>> hdulist.info()
 Filename: cks-K00001_rj122.742.fits
 No.    Name         Type      Cards   Dimensions   Format
 0    PRIMARY     PrimaryHDU     722   (4021, 16)   float32   
@@ -99,7 +96,8 @@ No.    Name         Type      Cards   Dimensions   Format
 2                ImageHDU         7   (4021, 16)   float64   
 
 Isolate the spectrum, fractional error and wavelength solution
-spec = hdulist[0].data
-frac_err = hdulist[1].data
-wave_sol = hdulist[2].data
+
+>>> flux = hdulist[0].data
+>>> flux_err = hdulist[1].data
+>>> wav = hdulist[2].data
 ```
