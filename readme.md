@@ -115,5 +115,5 @@ $ smemp shift -p cks-k00007_rj74.509.fits -o output/
 # -o specifies output directory
 ```
 
-![Shifting a spectrum](https://github.com/California-Planet-Search/cks-website/blob/master/cks-k00007_rj74.509_shift_plots.png)
+![Shifting a spectrum](https://raw.githubusercontent.com/California-Planet-Search/cks-website/master/cks-k00007_rj74.509_shift_plots.png)
 
