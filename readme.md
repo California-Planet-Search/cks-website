@@ -59,7 +59,6 @@ cks-k00001_bj122.742.fits
 - <j122.742> = Unique CPS spectrum identifier
 ```
 
-
 ## File Format
 Each Keck/HIRES spectrum consists of three individual files. Each file is prefixed with an letter indicating the HIRES chip. Each chip covers the following range of wavelengths:
  
@@ -69,7 +68,11 @@ Each Keck/HIRES spectrum consists of three individual files. Each file is prefix
 
 The CKS spectral analysis uses only the central ('r') spectrum.
  
-Within each .fits file, there are three extensions of equal dimemsions. The first extension is the spectrum itself, in echelle format. The values are flux, in arbitray units. The blaze function has been removed from each spectral order.  The signal-to-noise ratio has been preserved in the second extension, which gives the fractional error per pixel. The third extension holds the rest frame wavelength solution, which is accurate to ~1 HIRES pixel or ~1.2 km/s or ~0.02 angstroms.
+Within each .fits file, there are three extensions of equal dimemsions:
+
+1. The first extension is the spectrum itself, in echelle format. The values are flux, in arbitray units. The blaze function has been removed from each spectral order.  
+2. The second extension gives the fractional error per pixel. 
+3. The third extension holds the *rest frame* wavelength solution, which is accurate to ~1 HIRES pixel or ~1.2 km/s or ~0.02 angstroms.
  
 ### Read in spectrum in IDL
 
@@ -101,4 +104,11 @@ Isolate the spectrum, fractional error and wavelength solution
 >>> flux_err = hdulist[1].data
 >>> wav = hdulist[2].data
 ```
+
+## Registering HIRES spectra
+
+The CKS spectra are defined with respect to the *rest frame of HIRES*. For precision spectroscopy, it is more convenient to register (shift) spectra onto the *rest frame of the star*, i.e. H-alpha at 6563 angstroms. The open source code [Empirical-SpecMatch](http://specmatch-emp.readthedocs.io/en/latest/index.html), developed by [Yee, Petigura, and von Braun (2017)](http://adsabs.harvard.edu/abs/2017ApJ...836...77Y) contains a module to facilitate the registration of HIRES spectra.
+
+
+
 
