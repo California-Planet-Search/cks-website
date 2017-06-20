@@ -107,7 +107,7 @@ Isolate the spectrum, fractional error and wavelength solution
 
 ## Registering HIRES spectra
 
-The CKS spectra are defined with respect to the *rest frame of HIRES*. For precision spectroscopy, it is more convenient to register (shift) spectra onto the *rest frame of the star*, i.e. H-alpha at 6563 angstroms. The open source code [Empirical-SpecMatch](http://specmatch-emp.readthedocs.io/en/latest/index.html), developed by [Yee, Petigura, and von Braun (2017)](http://adsabs.harvard.edu/abs/2017ApJ...836...77Y) contains a module to facilitate the registration of HIRES spectra. For example, shifting registering KOI-7 systemic RV = −60.8 km/s.
+The CKS spectra are defined with respect to the *rest frame of HIRES*. For precision spectroscopy, it is more convenient to register (shift) spectra onto the *rest frame of the star*, i.e. H-alpha at 6563 angstroms. The open source code [Empirical-SpecMatch](http://specmatch-emp.readthedocs.io/en/latest/index.html), developed by [Yee, Petigura, and von Braun (2017)](http://adsabs.harvard.edu/abs/2017ApJ...836...77Y) contains a module to facilitate the registration of HIRES spectra. For example, shifting registering KOI-7 (systemic RV = −60.8 km/s).
 
 ```
 $ smemp shift -p cks-k00007_rj74.509.fits -o output/
