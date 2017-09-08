@@ -16,17 +16,17 @@ The overlapping CKS stellar samples are:
 
 The CKS dataset is described in two papers
 
-1. [CKS-I](https://arxiv.org/abs/1703.10400): "The California-Kepler Survey. I. High Resolution Spectroscopy of 1305 Stars Hosting Kepler Transiting Planets" (Petigura, Howard, Marcy, Johnson, Isaacson, et al. 2017; Astronomical Journal, accepted)
+1. [CKS-I](http://adsabs.harvard.edu/abs/2017AJ....154..107P): "The California-Kepler Survey. I. High Resolution Spectroscopy of 1305 Stars Hosting Kepler Transiting Planets" (Petigura, Howard, Marcy, Johnson, Isaacson, et al. 2017; Astronomical Journal, 154, 107)
 
-2. [CKS-II](https://arxiv.org/abs/1703.10402): "The California-Kepler Survey. II. Precise Physical Properties of 2025 Kepler Planets and Their Host Stars" (Johnson, Petigura, Fulton, Marcy, Howard, et al. 2017; Astronomical Journal, accepted)
+2. [CKS-II](http://adsabs.harvard.edu/abs/2017AJ....154..108J): "The California-Kepler Survey. II. Precise Physical Properties of 2025 Kepler Planets and Their Host Stars" (Johnson, Petigura, Fulton, Marcy, Howard, et al. 2017; Astronomical Journal, 154, 108)
 
 ## Other Papers Using CKS Data
 
-1. [CKS-III](https://arxiv.org/abs/1703.10375): "The California-Kepler Survey. III. A Gap in the Radius Distribution of Small Planets" (Fulton, Petigura, Howard, Isaacson, Marcy, et al. 2017; Astronomical Journal, accepted)
+1. [CKS-III](http://adsabs.harvard.edu/abs/2017AJ....154..109F): "The California-Kepler Survey. III. A Gap in the Radius Distribution of Small Planets" (Fulton, Petigura, Howard, Isaacson, Marcy, et al. 2017; Astronomical Journal, 154, 109)
 
 2. [CKS-V](http://arxiv.org/abs/1706.06204): "Peas in a Pod: Planets in a Kepler Multi-planet System are Similar in Size and Regularly Spaced" (Weiss, Marcy, Petigura, Fulton, Howard, et al. 2017; Astronomical Journal, submitted)
 
-3. "[Absence of a metallicity effect for ultra-short-period planets](https://arxiv.org/abs/1704.00203)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, accepted)
+3. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
 
 
 
