@@ -28,6 +28,8 @@ The CKS dataset is described in two papers
 
 3. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
 
+4. "[Constraints on Obliquities of Kepler Planet-Hosting Stars](http://adsabs.harvard.edu/abs/2017arXiv171004530W)" (Winn, Petigura, Morton, Weiss, Dai, et al. 2017; Astronomical Journal, accepted)
+
 
 
 ## CKS Contributors (alphabetical)
