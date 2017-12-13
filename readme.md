@@ -20,15 +20,17 @@ The CKS dataset is described in two papers
 
 2. [CKS-II](http://adsabs.harvard.edu/abs/2017AJ....154..108J): "The California-Kepler Survey. II. Precise Physical Properties of 2025 Kepler Planets and Their Host Stars" (Johnson, Petigura, Fulton, Marcy, Howard, et al. 2017; Astronomical Journal, 154, 108)
 
-## Other Papers Using CKS Data
+## Other Papers Using CKS Data by the CKS Team
 
 1. [CKS-III](http://adsabs.harvard.edu/abs/2017AJ....154..109F): "The California-Kepler Survey. III. A Gap in the Radius Distribution of Small Planets" (Fulton, Petigura, Howard, Isaacson, Marcy, et al. 2017; Astronomical Journal, 154, 109)
 
-2. [CKS-V](http://arxiv.org/abs/1706.06204): "Peas in a Pod: Planets in a Kepler Multi-planet System are Similar in Size and Regularly Spaced" (Weiss, Marcy, Petigura, Fulton, Howard, et al. 2017; Astronomical Journal, submitted)
+2. [CKS-IV](http://adsabs.harvard.edu/abs/2017arXiv171204042P): "The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets" (Petigura, Marcy, Winn, Weiss, Fulton et al. 2017; Astronomical Journal, submitted)
 
-3. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
+3. [CKS-V](http://arxiv.org/abs/1706.06204): "Peas in a Pod: Planets in a Kepler Multi-planet System are Similar in Size and Regularly Spaced" (Weiss, Marcy, Petigura, Fulton, Howard, et al. 2017; Astronomical Journal, accepted)
 
-4. "[Constraints on Obliquities of Kepler Planet-Hosting Stars](http://adsabs.harvard.edu/abs/2017arXiv171004530W)" (Winn, Petigura, Morton, Weiss, Dai, et al. 2017; Astronomical Journal, accepted)
+4. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
+
+5. "[Constraints on Obliquities of Kepler Planet-Hosting Stars](http://adsabs.harvard.edu/abs/2017arXiv171004530W)" (Winn, Petigura, Morton, Weiss, Dai, et al. 2017; Astronomical Journal, accepted)
 
 
 
