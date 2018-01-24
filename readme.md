@@ -24,9 +24,9 @@ The CKS dataset is described in two papers
 
 1. [CKS-III](http://adsabs.harvard.edu/abs/2017AJ....154..109F): "The California-Kepler Survey. III. A Gap in the Radius Distribution of Small Planets" (Fulton, Petigura, Howard, Isaacson, Marcy, et al. 2017; Astronomical Journal, 154, 109)
 
-2. [CKS-IV](http://adsabs.harvard.edu/abs/2017arXiv171204042P): "The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets" (Petigura, Marcy, Winn, Weiss, Fulton et al. 2017; Astronomical Journal, submitted)
+2. [CKS-IV](http://adsabs.harvard.edu/abs/2017arXiv171204042P): "The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets" (Petigura, Marcy, Winn, Weiss, Fulton et al. 2018; Astronomical Journal, accepted)
 
-3. [CKS-V](http://arxiv.org/abs/1706.06204): "The California-Kepler Survey V. Peas in a Pod: Planets in a Kepler Multi-planet System are Similar in Size and Regularly Spaced" (Weiss, Marcy, Petigura, Fulton, Howard, et al. 2017; Astronomical Journal, accepted)
+3. [CKS-V](http://adsabs.harvard.edu/abs/2018AJ....155...48W): "The California-Kepler Survey V. Peas in a Pod: Planets in a Kepler Multi-planet System are Similar in Size and Regularly Spaced" (Weiss, Marcy, Petigura, Fulton, Howard, et al. 2017; Astronomical Journal, 155, 48)
 
 4. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
 
