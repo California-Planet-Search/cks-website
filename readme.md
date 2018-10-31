@@ -28,9 +28,13 @@ The CKS dataset is described in two papers
 
 3. [CKS-V](http://adsabs.harvard.edu/abs/2018AJ....155...48W): "The California-Kepler Survey V. Peas in a Pod: Planets in a Kepler Multi-planet System are Similar in Size and Regularly Spaced" (Weiss, Marcy, Petigura, Fulton, Howard, et al. 2017; Astronomical Journal, 155, 48)
 
-4. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
+4. [CKS-VI](http://adsabs.harvard.edu/abs/2018arXiv180803010W): "The California-Kepler Survey. VI: Kepler Multis and Singles Have Similar Planet and Stellar Properties Indicating a Common Origin" (Weiss, Isaacson, March, Howard, Petigura, et al. 2018; Astronomical Journal, accepted)
 
-5. "[Constraints on Obliquities of Kepler Planet-Hosting Stars](http://adsabs.harvard.edu/abs/2017arXiv171004530W)" (Winn, Petigura, Morton, Weiss, Dai, et al. 2017; Astronomical Journal, 154, 6)
+5. [CKS-VII](http://adsabs.harvard.edu/abs/2018arXiv180501453F): "The California Kepler Survey VII. Precise Planet Radii Leveraging Gaia DR2 Reveal the Stellar Mass Dependence of the Planet Radius Gap" (Fulton & Petigura 2018; Astronomical Journal, accepted)
+
+6. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
+
+7. "[Constraints on Obliquities of Kepler Planet-Hosting Stars](http://adsabs.harvard.edu/abs/2017arXiv171004530W)" (Winn, Petigura, Morton, Weiss, Dai, et al. 2017; Astronomical Journal, 154, 6)
 
 
 
