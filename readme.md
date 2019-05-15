@@ -32,9 +32,11 @@ The CKS dataset is described in two papers
 
 5. [CKS-VII](http://adsabs.harvard.edu/abs/2018arXiv180501453F): "The California Kepler Survey VII. Precise Planet Radii Leveraging Gaia DR2 Reveal the Stellar Mass Dependence of the Planet Radius Gap" (Fulton & Petigura 2018; Astronomical Journal, accepted)
 
-6. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
+6. [CKS-VIII](https://ui.adsabs.harvard.edu/abs/2019arXiv190504625M/abstract): "CKS VIII: Eccentricities of Kepler Planets and Tentative Evidence of a High Metallicity Preference for Small Eccentric Planets" (Mills, Howard, Petigura, Fulton, Isaacson, et al.; Astromical Journal, accepted)
 
-7. "[Constraints on Obliquities of Kepler Planet-Hosting Stars](http://adsabs.harvard.edu/abs/2017arXiv171004530W)" (Winn, Petigura, Morton, Weiss, Dai, et al. 2017; Astronomical Journal, 154, 6)
+7. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
+
+8. "[Constraints on Obliquities of Kepler Planet-Hosting Stars](http://adsabs.harvard.edu/abs/2017arXiv171004530W)" (Winn, Petigura, Morton, Weiss, Dai, et al. 2017; Astronomical Journal, 154, 6)
 
 
 
