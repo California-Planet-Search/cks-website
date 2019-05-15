@@ -30,9 +30,9 @@ The CKS dataset is described in two papers
 
 4. [CKS-VI](http://adsabs.harvard.edu/abs/2018arXiv180803010W): "The California-Kepler Survey. VI: Kepler Multis and Singles Have Similar Planet and Stellar Properties Indicating a Common Origin" (Weiss, Isaacson, March, Howard, Petigura, et al. 2018; Astronomical Journal, accepted)
 
-5. [CKS-VII](http://adsabs.harvard.edu/abs/2018arXiv180501453F): "The California Kepler Survey VII. Precise Planet Radii Leveraging Gaia DR2 Reveal the Stellar Mass Dependence of the Planet Radius Gap" (Fulton & Petigura 2018; Astronomical Journal, accepted)
+5. [CKS-VII](http://adsabs.harvard.edu/abs/2018arXiv180501453F): "The California Kepler Survey VII. Precise Planet Radii Leveraging Gaia DR2 Reveal the Stellar Mass Dependence of the Planet Radius Gap" (Fulton & Petigura 2018; Astronomical Journal, 156, 264)
 
-6. [CKS-VIII](https://ui.adsabs.harvard.edu/abs/2019arXiv190504625M/abstract): "CKS VIII: Eccentricities of Kepler Planets and Tentative Evidence of a High Metallicity Preference for Small Eccentric Planets" (Mills, Howard, Petigura, Fulton, Isaacson, et al.; Astromical Journal, accepted)
+6. [CKS-VIII](https://ui.adsabs.harvard.edu/abs/2019arXiv190504625M/abstract): "CKS VIII: Eccentricities of Kepler Planets and Tentative Evidence of a High Metallicity Preference for Small Eccentric Planets" (Mills, Howard, Petigura, Fulton, Isaacson, et al. 2019; Astromical Journal, accepted)
 
 7. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
 
