@@ -32,18 +32,20 @@ The CKS dataset is described in two papers
 
 5. [CKS-VII](http://adsabs.harvard.edu/abs/2018arXiv180501453F): "The California Kepler Survey VII. Precise Planet Radii Leveraging Gaia DR2 Reveal the Stellar Mass Dependence of the Planet Radius Gap" (Fulton & Petigura 2018; Astronomical Journal, 156, 264)
 
-6. [CKS-VIII](https://ui.adsabs.harvard.edu/abs/2019arXiv190504625M/abstract): "CKS VIII: Eccentricities of Kepler Planets and Tentative Evidence of a High Metallicity Preference for Small Eccentric Planets" (Mills, Howard, Petigura, Fulton, Isaacson, et al. 2019; Astromical Journal, accepted)
+6. [CKS-VIII](https://ui.adsabs.harvard.edu/abs/2019arXiv190504625M/abstract): "The California-Kepler Survey. VIII. Eccentricities of Kepler Planets and Tentative Evidence of a High-metallicity Preference for Small Eccentric Planets" (Mills, Howard, Petigura, Fulton, Isaacson, et al. 2019; Astromical Journal, 157, 198)
 
-7. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
+7. [CKS-IX](https://ui.adsabs.harvard.edu/abs/2020arXiv200404847D/abstract): "CKS IX: Revisiting the Minimum-Mass Extrasolar Nebula with Precise Stellar Parameters" (Dai, Winn, Schlaufman, Wang, Weiss; Astronomical Journal, accepted)
 
-8. "[Constraints on Obliquities of Kepler Planet-Hosting Stars](http://adsabs.harvard.edu/abs/2017arXiv171004530W)" (Winn, Petigura, Morton, Weiss, Dai, et al. 2017; Astronomical Journal, 154, 6)
+8. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
 
-9. "[Identifying Young Kepler Planet Host Stars from Keck-HIRES Spectra of Lithium](https://ui.adsabs.harvard.edu/abs/2018ApJ...855..115B/abstract)" (Berger, Howard, & Boesgaard 2018; Astrophysical Journal, 855, 115)
+9. "[Constraints on Obliquities of Kepler Planet-Hosting Stars](http://adsabs.harvard.edu/abs/2017arXiv171004530W)" (Winn, Petigura, Morton, Weiss, Dai, et al. 2017; Astronomical Journal, 154, 6)
+
+10. "[Identifying Young Kepler Planet Host Stars from Keck-HIRES Spectra of Lithium](https://ui.adsabs.harvard.edu/abs/2018ApJ...855..115B/abstract)" (Berger, Howard, & Boesgaard 2018; Astrophysical Journal, 855, 115)
 
 
 ## CKS Contributors (alphabetical)
 
-Phillip A. Cargile, [Ian J. M. Crossfield](https://people.ucsc.edu/~ianc/), [Benjamin J. Fulton](http://www.astro.caltech.edu/~bfulton/), [Leslie Hebb](http://astro.phy.vanderbilt.edu/~hebbl/), [Lea A. Hirsch](http://w.astro.berkeley.edu/~lhirsch/), [Andrew W. Howard](http://www.astro.caltech.edu/~howard/), [Howard Isaacson](http://astro.berkeley.edu/researcher-profile/2358303-howard-isaacson), [John Asher Johnson](https://astronomy.fas.harvard.edu/people/john-asher-johnson), Geoffrey W. Marcy, [Timothy D. Morton](https://sites.google.com/site/timmorton/), [Erik A. Petigura](http://petigura.github.io/), [Leslie A. Rogers](https://astro.uchicago.edu/people/leslie-rogers.php), Evan Sinukoff, [Lauren M. Weiss](http://lweiss25.wixsite.com/weiss), [Joshua N. Winn](http://scholar.princeton.edu/jwinn/home)
+Phillip A. Cargile, [Ian J. M. Crossfield](http://physics.ku.edu/crossfield-ian), [Benjamin J. Fulton](http://www.benjaminfulton.com), [Leslie Hebb](http://astro.phy.vanderbilt.edu/~hebbl/), [Lea A. Hirsch](https://profiles.stanford.edu/lea-hirsch), [Andrew W. Howard](https://exoplanets.caltech.edu/about-andrew/), [Howard Isaacson](http://astro.berkeley.edu/researcher-profile/2358303-howard-isaacson), [John Asher Johnson](https://astronomy.fas.harvard.edu/people/john-asher-johnson), Geoffrey W. Marcy, [Timothy D. Morton](https://sites.google.com/site/timmorton/), [Erik A. Petigura](http://petigura.github.io/), [Leslie A. Rogers](https://astro.uchicago.edu/people/leslie-rogers.php), Evan Sinukoff, [Lauren M. Weiss](http://lweiss25.wixsite.com/weiss), [Joshua N. Winn](http://scholar.princeton.edu/jwinn/home)
 
 ## Parameters
 
