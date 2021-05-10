@@ -34,7 +34,7 @@ The CKS dataset is described in two papers
 
 6. [CKS-VIII](https://ui.adsabs.harvard.edu/abs/2019arXiv190504625M/abstract): "The California-Kepler Survey. VIII. Eccentricities of Kepler Planets and Tentative Evidence of a High-metallicity Preference for Small Eccentric Planets" (Mills, Howard, Petigura, Fulton, Isaacson, et al. 2019; Astromical Journal, 157, 198)
 
-7. [CKS-IX](https://ui.adsabs.harvard.edu/abs/2020arXiv200404847D/abstract): "CKS IX: Revisiting the Minimum-Mass Extrasolar Nebula with Precise Stellar Parameters" (Dai, Winn, Schlaufman, Wang, Weiss; Astronomical Journal, accepted)
+7. [CKS-IX](https://ui.adsabs.harvard.edu/abs/2020arXiv200404847D/abstract): "CKS IX: Revisiting the Minimum-Mass Extrasolar Nebula with Precise Stellar Parameters" (Dai, Winn, Schlaufman, Wang, Weiss, et al. 2020; Astronomical Journal, 159, 247)
 
 8. "[Absence of a metallicity effect for ultra-short-period planets](http://adsabs.harvard.edu/abs/2017AJ....154...60W)" (Winn, Sanchis-Ojeda, Rogers, Petigura, Howard, et al. 2017; Astronomical Journal, 154, 60)
 
