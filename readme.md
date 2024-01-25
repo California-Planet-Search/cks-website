@@ -42,7 +42,9 @@ The CKS dataset is described in two papers
 
 10. "[Identifying Young Kepler Planet Host Stars from Keck-HIRES Spectra of Lithium](https://ui.adsabs.harvard.edu/abs/2018ApJ...855..115B/abstract)" (Berger, Howard, & Boesgaard 2018; Astrophysical Journal, 855, 115)
 
-11. "[CKS-XI. A Survey of Chromospheric Activity through the Lens of Precise Stellar Properties ](https://ui.adsabs.harvard.edu/abs/2024ApJ...961...85I/abstract)" ( Isaacson, Kane, Carter, Howard, Weiss, Petigura, Fulton; The Astrophysical Journal, Volume 961, Issue 1, id.85, 22 pp,   January 2024)
+11. "[CKS-X. The Radius Gap as a Function of Stellar Mass, Metallicity, and Age](https://ui.adsabs.harvard.edu/abs/2018ApJ...855..115B/abstract)" (Petigura, Rogers, Isaacson, Owen, Kraus, Winn, MacDougall, Howard, Fulton, Kosiarek, Weiss, Behmard, Blunt;  The Astronomical Journal, Volume 163, Issue 4, id.179, 24 pp., April 2022)
+
+12. "[CKS-XI. A Survey of Chromospheric Activity through the Lens of Precise Stellar Properties ](https://ui.adsabs.harvard.edu/abs/2024ApJ...961...85I/abstract)" ( Isaacson, Kane, Carter, Howard, Weiss, Petigura, Fulton; The Astrophysical Journal, Volume 961, Issue 1, id.85, 22 pp,   January 2024)
 
 ## CKS Contributors (alphabetical)
 
