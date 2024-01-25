@@ -42,10 +42,11 @@ The CKS dataset is described in two papers
 
 10. "[Identifying Young Kepler Planet Host Stars from Keck-HIRES Spectra of Lithium](https://ui.adsabs.harvard.edu/abs/2018ApJ...855..115B/abstract)" (Berger, Howard, & Boesgaard 2018; Astrophysical Journal, 855, 115)
 
+11. "[CKS-XI. A Survey of Chromospheric Activity through the Lens of Precise Stellar Properties ](https://ui.adsabs.harvard.edu/abs/2024ApJ...961...85I/abstract)" ( Isaacson, Kane, Carter, Howard, Weiss, Petigura, Fulton; The Astrophysical Journal, Volume 961, Issue 1, id.85, 22 pp,   January 2024)
 
 ## CKS Contributors (alphabetical)
 
-Phillip A. Cargile, [Ian J. M. Crossfield](http://physics.ku.edu/crossfield-ian), [Benjamin J. Fulton](http://www.benjaminfulton.com), [Leslie Hebb](http://astro.phy.vanderbilt.edu/~hebbl/), [Lea A. Hirsch](https://profiles.stanford.edu/lea-hirsch), [Andrew W. Howard](https://exoplanets.caltech.edu/about-andrew/), [Howard Isaacson](http://astro.berkeley.edu/researcher-profile/2358303-howard-isaacson), [John Asher Johnson](https://astronomy.fas.harvard.edu/people/john-asher-johnson), Geoffrey W. Marcy, [Timothy D. Morton](https://sites.google.com/site/timmorton/), [Erik A. Petigura](http://petigura.github.io/), [Leslie A. Rogers](https://astro.uchicago.edu/people/leslie-rogers.php), Evan Sinukoff, [Lauren M. Weiss](http://lweiss25.wixsite.com/weiss), [Joshua N. Winn](http://scholar.princeton.edu/jwinn/home)
+Phillip A. Cargile, [Ian J. M. Crossfield](http://physics.ku.edu/crossfield-ian), [Benjamin J. Fulton](http://www.benjaminfulton.com), [Leslie Hebb](http://astro.phy.vanderbilt.edu/~hebbl/), [Lea A. Hirsch](https://profiles.stanford.edu/lea-hirsch), [Andrew W. Howard](https://exoplanets.caltech.edu/about-andrew/), [Howard Isaacson](https://astro.berkeley.edu/people/howard-isaacson/), [John Asher Johnson](https://astronomy.fas.harvard.edu/people/john-asher-johnson), Geoffrey W. Marcy, [Timothy D. Morton](https://sites.google.com/site/timmorton/), [Erik A. Petigura](http://petigura.github.io/), [Leslie A. Rogers](https://astro.uchicago.edu/people/leslie-rogers.php), Evan Sinukoff, [Lauren M. Weiss](http://lweiss25.wixsite.com/weiss), [Joshua N. Winn](http://scholar.princeton.edu/jwinn/home)
 
 ## Parameters
 
